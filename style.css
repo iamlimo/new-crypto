@@ -15,6 +15,13 @@ html {
     color: #fff;
 }
 
+.pHead{
+    font-size: 30px;
+}
+
+.blue-text{
+    margin-top: 20px;
+}
 .but-white{
     background-color: #fff;
     width: 150px;
@@ -23,9 +30,23 @@ html {
     border-radius: 5px;
 }
 
+.butty{
+    text-decoration: none;
+}
+#earn{
+    padding: 5em 0 5em 0;
+}
+
+#bitcoin-trust{
+margin-top: 20px;
+}
 .third{
-    height: 450px;
-    padding: 5em 0;
+    /* height: 550px; */
+    padding: 5em 0 5em 0;
+}
+
+#buy{
+    margin-top: 50px;
 }
 
 .footer{
